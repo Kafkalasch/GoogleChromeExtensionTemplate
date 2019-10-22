@@ -1,0 +1,17 @@
+@import "~normalize.css/normalize.css";
+@import "~@blueprintjs/icons/lib/css/blueprint-icons.css";
+@import "~@blueprintjs/core/lib/css/blueprint.css";
+@import "./utilities/EnableBorderBox";
+
+html,
+body,
+#root {
+    width: 100%;
+    height: 100%;
+    font-family: -apple-system, "BlinkMacSystemFont", "Oxygen", "Roboto", "Ubuntu", "Cantarell", "Open Sans", "Helvetica Neue",
+        "Icons16", sans-serif;
+}
+
+body {
+    position: absolute; // https://blueprintjs.com/docs/#core/components/portal prevents possible scrolling when portals are rendered
+}

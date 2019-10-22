@@ -1,0 +1,10 @@
+body {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
