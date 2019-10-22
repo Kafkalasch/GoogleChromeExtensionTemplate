@@ -2,5 +2,5 @@ node_modules
 src/**/*.js
 src/**/*.js.map
 !src/__mocks__/*.js
-build
+dist
 assets/version.txt
