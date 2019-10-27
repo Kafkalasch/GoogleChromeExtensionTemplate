@@ -1,3 +1,3 @@
 import "./Contentscript.scss";
 
-console.log("Hello world");
+console.log("Hello world - contentscript");
