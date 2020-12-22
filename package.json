@@ -25,7 +25,7 @@
         "fs-extra": "^8.1.0",
         "jest": "^24.9.0",
         "mini-css-extract-plugin": "^0.8.0",
-        "node-notifier": "^6.0.0",
+        "node-notifier": "^8.0.1",
         "node-notifier-cli": "^1.1.2",
         "node-sass": "^4.12.0",
         "prettier": "1.18.2",
